@@ -96,5 +96,51 @@ Enter a number between 1 and 100: 75
 Too high! Try again.
 Enter a number between 1 and 100: 63
 Congratulations! You guessed it right.
+---
+Contact Book
+
+This is a simple Python Contact Book application. It allows users to add, view, search, and delete contacts.
+
+Features:
+- Add a new contact with name and phone number
+- View all saved contacts
+- Search for a contact by name
+- Delete a contact by name
+- Exit the program anytime
+
+How to Run:
+1. Clone this repository or download the code.
+2. Open the terminal inside the project folder.
+3. Run the script using: python contact_book.py
+4. Follow the menu options to add, view, search, or delete contacts.
+
+Example Output:
+1. Add contact
+2. View contact
+3. Search contact
+4. Delete contact
+5. Exit contact
+Enter your choice (1-5): 1
+Enter your contact name: Janhavi
+Enter your contact phone number: 1234567890
+Janhavi and 1234567890 added successfully
+
+1. Add contact
+2. View contact
+3. Search contact
+4. Delete contact
+5. Exit contact
+Enter your choice (1-5): 2
+Saved contacts:
+1. Janhavi and 1234567890
+
+1. Add contact
+2. View contact
+3. Search contact
+4. Delete contact
+5. Exit contact
+Enter your choice (1-5): 5
+Exiting the contact book... Goodbye
+---
 
  Janhavi Mishra
