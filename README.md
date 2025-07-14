@@ -16,8 +16,38 @@ The program uses functions and a menu-driven loop to let the user perform multip
 2. Run the program
 3. Enter two numbers and an operator (+, -, *, /)
 4. Continue using the calculator or exit when done
-
 ---
+
+#To-Do List Project 📝
+This is a simple Python command-line To-Do List application.
+
+Features:
+✅ Add tasks
+
+✅ View tasks
+
+✅ Remove tasks
+
+✅ Exit
+
+How to Run:
+Open to-do-list.py in VS Code.
+
+Run the program.
+
+Choose options from the menu by entering 1 to 4:
+
+1 to add a task.
+
+2 to view the list of tasks.
+
+3 to remove a task by entering its number.
+
+4 to exit the application.
+
+The program will keep running in a loop until you choose to exit.
+---
+
 # Password Generator 🗝️
 
 This is a simple **Python Password Generator** that creates a strong random password based on user input
