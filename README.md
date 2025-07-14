@@ -97,7 +97,7 @@ Too high! Try again.
 Enter a number between 1 and 100: 63
 Congratulations! You guessed it right.
 ---
-Contact Book
+# Contact Book 📒
 
 This is a simple Python Contact Book application. It allows users to add, view, search, and delete contacts.
 
